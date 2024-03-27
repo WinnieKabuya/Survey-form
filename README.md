@@ -5,8 +5,8 @@ Don’t forget to add a title, and consider using CSS to improve the look of you
 ![Netlify Status](https://api.netlify.com/api/v1/badges/aa0429b6-5e2f-4559-b55c-867bc5c2e4cb/deploy-status)
 
 Visit the survey form on 
-![Netlify](https://bbqgrillsurveyform.netlify.app/)
+![Netlify](https://bbqgrillsurveyform.netlify.app)
 
 
-#BBQ Grill Survey Form 
+# BBQ Grill Survey Form 
 ![Survey Form](https://github.com/WinnieKabuya/Survey-form/blob/main/BBQ%20dishes%20Survey%20form.png)
